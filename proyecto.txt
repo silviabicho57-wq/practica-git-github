@@ -1,0 +1,2 @@
+Me gustaria desarrollar una aplicacion que una aplicación para organizar tareas.
+Permitiendo añadir, modificar y eliminar tareas, además de marcarlas como completadas.
